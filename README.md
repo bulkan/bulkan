@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer that plays the [Ney](https://en.wikipedia.org/wiki/Turkish_ney)
 
 <!--
 **bulkan/bulkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I've been learning Japanese for two years. My goal is to take the [JLPT N3](https://www.jlpt.jp/e/about/levelsummary.html) in December 2020.
+- Ask me about Turkish classical music.
