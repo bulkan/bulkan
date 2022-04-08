@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - [Watch some of my music recordings](https://www.youtube.com/watch?v=nkULJrlYeg8).
-- I've been learning Japanese for two years. My goal is to take the [JLPT N3](https://www.jlpt.jp/e/about/levelsummary.html) in December 2020.
+- I've been learning Japanese since 2017. My goal is to take the [JLPT N3](https://www.jlpt.jp/e/about/levelsummary.html).
 - I'm currently working on [Generative Art](https://bulkan.dev/) and written two articles on using [p5.js with TypeScript & Parcel](https://bulkan-evcimen.com/using_parceljs_typescript_p5js)
 - Ask me about Turkish classical music, learning Japanese or Generative Art.
